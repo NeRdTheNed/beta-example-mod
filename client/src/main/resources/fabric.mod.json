@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Example Mod",
-  "description": "An Example Mod for Alpha",
+  "description": "An Example Mod for Beta",
   "authors": [
-    "Earthcomputer"
+    "Earthcomputer",
+    "js6pak"
   ],
   "contact": {
-    "homepage": "https://earthcomputer.net/",
-    "sources": "https://github.com/pack-png-mods/alpha-example-mod"
+    "sources": "https://github.com/js6pak/beta-example-mod"
   },
 
   "license": "CC0-1.0",
@@ -22,6 +22,5 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4"
   }
 }
